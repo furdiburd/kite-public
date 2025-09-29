@@ -3539,4 +3539,45 @@
       "https://www.wired.com/feed/category/security/latest/rss"
     ]
   }
+    "Hungary": {
+    "category_type": "topic",
+    "source_language": "en",
+    "display_names": {
+      "de": "Ungarn",
+      "en": "Hungary",
+      "es": "Hungría",
+      "fr": "Hongrie",
+      "hi": "हंगरी",
+      "it": "Ungheria",
+      "ja": "ハンガリー",
+      "nl": "Ungarn",
+      "pt": "Hungria",
+      "ru": "Венгрия",
+      "uk": "Угорщина",
+      "zh-Hans": "",
+      "zh-Hant": "",
+      "ar": "",
+      "he": ""
+    },
+    "feeds": [
+      "https://dailynewshungary.com/feed/",
+      "https://telex.hu/rss",
+      "http://reddit.com/r/hungary/new.rss",
+      "https://444.hu/feed",
+      "https://hvg.hu/rss",
+      
+      "https://feeds.bbci.co.uk/news/topics/cx1m7zg0wjqt/rss.xml",
+      "https://telex.hu/rss/archivum?filters=%7B%22and_tags%22%3A%5B%5D%2C%22superTags%22%3A%5B%22G7%22%5D%2C%22authors%22%3A%5B%5D%2C%22title%22%3A%5B%5D%7D&perPage=20",
+      "http://24.hu/rss",
+      "https://budapest.hu/hirek/rss",
+      "https://bkk.hu/hirek/rss",
+      
+      "https://politepol.com/fd/FqZhiMYQ0GIl.xml",
+      "https://atlatszo.hu/rss",
+      "https://hang.hu/rss",
+      "https://168.hu/rss",
+      "https://www.police.hu/hu/rss"
+  
+    ]
+  }
 }
